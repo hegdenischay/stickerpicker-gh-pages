@@ -1,3 +1,7 @@
+# Obsolete
+
+The PR that this was a demo for has been merged, and it looks much better than this does, so go check that out!
+
 # Maunium sticker picker
 A fast and simple Matrix sticker picker widget. Tested on Element Web, Android & iOS.
 
